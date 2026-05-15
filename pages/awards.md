@@ -1,6 +1,7 @@
 ---
 title: Awards
 layout: awards
+permalink: /awards.html
 ---
 
 {% include feature/nav-menu.html sections="FAMAS AWARDS;LUNA AWARDS" %}
