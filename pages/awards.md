@@ -1,6 +1,6 @@
 ---
-title: Awards and Recognitions
-layout: page
+title: Awards
+layout: awards
 ---
 
 {% include feature/nav-menu.html sections="FAMAS AWARDS;LUNA AWARDS" %}
