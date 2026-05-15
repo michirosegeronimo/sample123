@@ -8,14 +8,14 @@ permalink: /awards.html
 
 ## FAMAS AWARDS
 Barcelona: A Love Untold
- • Best Picture
- • Best Director	- Olivia Lamasan
- • Best Actor - Daniel Padilla
- • Best Production Design	- Shari Marie Montiague
+- Best Picture
+- Best Director	- Olivia Lamasan
+- Best Actor - Daniel Padilla
+- Best Production Design	- Shari Marie Montiague
 
 Isa Pa with Feelings
- • Best Supporting Actor	- Carlo Aquino
+- Best Supporting Actor	- Carlo Aquino
 
 ## LUNA AWARDS
- • One More Chance
- • Best Actor	- John Lloyd Cruz
+- One More Chance
+- Best Actor	- John Lloyd Cruz
